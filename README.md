@@ -1,5 +1,15 @@
-### Hi there... 👋
-teste
+# Hi, I`m Celso! 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/celso-de-oliveira-j%C3%BAnior-8335827b/)
+![GitHub followers](https://img.shields.io/github/followers/celso341?style=social)
+
+### About me
+I'm a Web Developer 💻
+
+- 🏠 I live in São Paulo, Brazil.
+- 🎓 I am graduated in Analysis Systems Development.
+- 📚 Programming study. 
+- ❤️ Passionate about technology and programming.
 
 <!--
 **celso341/celso341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
