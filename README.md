@@ -10,6 +10,7 @@ I'm a Web ReactJS Developer 💻
 - 🎓 I am graduated in Analysis Systems Development.
 - 📚 Programming study. 
 - ❤️ Passionate about technology and programming.
+- Teste do git
 
 <!--
 **celso341/celso341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
